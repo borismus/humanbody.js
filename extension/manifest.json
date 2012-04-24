@@ -1,0 +1,12 @@
+{
+  "name": "Rdio Gestures",
+  "version": "0.1",
+  "description": "Control Rdio with Kinect gestures",
+  "permissions": ["tabs"],
+  "content_scripts": [
+    {
+      "matches": ["http://www.rdio.com/*"],
+      "js": ["sylvester.js", "ws-client.js", "rdio.js", "kinect.js"]
+    }
+  ]
+}
