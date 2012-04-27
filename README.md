@@ -28,11 +28,9 @@ The demo is an rd.io controller that recognizes 3 gestures:
 - Left hand on head, right hand stretched horizontally to skip next
 - Right hand on head, left hand stretched horizontally to skip previous
 
-Here's a video of it in action:
-
-<iframe width="560" height="315"
-src="http://www.youtube.com/embed/dZcjfgILtzY" frameborder="0"
-allowfullscreen></iframe>
+Here's a [video of it][video] in action.
 
 You can see for yourself too. Run the eclipse project, install
 the extension in Chrome, and go to <http://rd.io>.
+
+[video]: http://www.youtube.com/watch?v=dZcjfgILtzY
