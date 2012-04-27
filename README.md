@@ -30,7 +30,9 @@ The demo is an rd.io controller that recognizes 3 gestures:
 
 Here's a [video of it][video] in action.
 
-You can see for yourself too. Run the eclipse project, install
-the extension in Chrome, and go to <http://rd.io>.
+You can run the demo yourself too. Follow installation steps above,
+install the extension in Chrome (located in the [extension/][crx]
+directory), and go to <http://rd.io>.
 
 [video]: http://www.youtube.com/watch?v=dZcjfgILtzY
+[crx]: https://github.com/borismus/humanbody.js/tree/master/extension
